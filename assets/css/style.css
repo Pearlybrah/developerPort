@@ -1,0 +1,71 @@
+.fullscreen {
+  background: url("../images/portfolio.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.proLinks {
+  margin: auto;
+}
+
+h2 {
+  color: rgb(255, 242, 242);
+}
+
+#photo {
+  display: inline-block;
+  width: 33%;
+  height: 20%;
+}
+
+p {
+  text-align: center;
+  color: black;
+  background-color: white;
+  opacity: 0.5;
+}
+
+#dynamic {
+  text-align: center;
+  color: black;
+  background-color: white;
+  opacity: 0.5;
+}
+
+#family {
+  width: 40%;
+  height: 30em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer {
+  position: relative;
+  padding-top: 200px;
+  text-align: center;
+  clear: both;
+  color: white;
+}
+
+.col-centered {
+  float: none;
+  margin: 0 auto;
+}
+
+@media only screen and (max-width: 600px) {
+}
+
+@media only screen and (min-width: 600px) {
+}
+
+@media only screen and (min-width: 768px) {
+}
+
+@media only screen and (min-width: 992px) {
+}
+
+@media only screen and (min-width: 1200px) {
+}
